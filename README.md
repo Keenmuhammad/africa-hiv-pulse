@@ -4,6 +4,18 @@ An interactive **R Shiny dashboard** exploring HIV estimates, treatment coverage
 
 Developed by **Muhammad Ibrahim Bello**, using estimates from **UNAIDS AIDSinfo**.
 
+## Dashboard preview
+
+### Africa overview
+![Africa overview with KPI cards and interactive map](dashboard-overview.png)
+![Africa overview with KPI cards and interactive map](dashboard-overview_1.png)
+
+### Country profile
+![Country profile with historical trends](country-profile.png)
+
+### Country comparisons
+![Comparison of HIV indicators across countries](country-comparisons.png)
+
 ## Dashboard features
 
 The dashboard organises its indicators and visualisations into six tabs:
